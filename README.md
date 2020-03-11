@@ -1,6 +1,6 @@
 # Books published 
 # These new books focus on applied mathematics to solve real problems on real time.
-# They include also examples that are listed under code repository
+# They include also walkthrough examples that are listed under code repository
 # Thee books are also translated into other languages including French and Spanish
 
 
