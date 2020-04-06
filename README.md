@@ -1,7 +1,7 @@
 # Books published 
 # These new books focus on applied mathematics to solve real problems on real time.
 # They include also walkthrough examples that are listed under code repository
-# Thee books are also translated into other languages including French and Spanish
+# These books are also being translated into other languages including French and Spanish
 
 
 •	A. Bari (2018) Edge & Fog Analytics: The New Analytics Interface https://www.amazon.ca/Edge-Fog-Analytics-New-Interface/dp/1723874108/
