@@ -1,7 +1,7 @@
-# Books published 
-# These books, spanning Big Bata, ML to AI (DL and RL), focus on applied mathematics to solve real problems on real time.
-# They include also walkthrough examples that are listed under code repository.
-# These books are also being translated into other languages including French and Spanish.
+# Books published by operational AI
+
+# These new books address Big Bata and AI challenges. The books on big data addresss data integration and knowledge generation challenges while the book on ML/AI address abstraction and and reasoning challenges in solving real problems on real time.
+# These books include also walkthrough examples that are listed under code repository. They are also being translated into other languages including French and Spanish.
 
 
 •	A. Bari (2018) Edge & Fog Analytics: The New Analytics Interface https://www.amazon.ca/Edge-Fog-Analytics-New-Interface/dp/1723874108/
