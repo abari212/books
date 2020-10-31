@@ -3,7 +3,7 @@
 # These new books address Big Bata and AI challenges. The books on big data address data integration and knowledge generation challenges while the books on ML/AI address abstraction and reasoning challenges in solving real problems on real time.
 https://www.linkedin.com/pulse/abstraction-reasoning-still-challenge-ai-abdallah-bari/
 
-# These books include also walkthrough examples that are listed under code repository. They are also being translated into other languages including French and Spanish.
+# These books include also walkthrough examples that are listed under code repository. They are also being translated into other languages including French and Spanish. These examaples with codes are available at https://github.com/abari212/mca. 
 
 
 •	A. Bari (2018) Edge & Fog Analytics: The New Analytics Interface https://www.amazon.ca/Edge-Fog-Analytics-New-Interface/dp/1723874108/
