@@ -1,4 +1,4 @@
-# Books published by Operational AI - OperAI https://www.operai.ca/books--reviews.html
+# Recent Books published by Operational AI - OperAI https://www.operai.ca/books--reviews.html
 
 # These books address Big Bata and AI challenges. The books on big data address data integration and knowledge generation challenges while the books on ML/AI address abstraction and reasoning challenges to solve real problems on real time.
 https://www.linkedin.com/pulse/abstraction-reasoning-still-challenge-ai-abdallah-bari/
