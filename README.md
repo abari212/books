@@ -1,7 +1,7 @@
 # Recent Books published by Operational AI - OperAI https://www.operai.ca/books--reviews.html
 
-​OperAI
-​develops IoT & AI-based solutions to streamline operational processes at the edge of the Cloud!
+​OperAI develops IoT & AI-based solutions to streamline operational processes at the edge of the Cloud! 
+
 ​OperAI focuses on speeding up and streamlining operational ​processes at the edge of the Cloud, by developing the Internet of Things (IoTs) devices with embedded AI in combination with 5G technology.
 
 # These books address Big Bata and AI challenges, including IoT embedded AI. The books on big data address data integration and knowledge generation challenges while the books on ML/AI and IoTs address abstraction and reasoning as well as edge inference challenges to solve real problems on real time.
