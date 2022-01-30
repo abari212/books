@@ -1,4 +1,4 @@
-# Recent Books published by Operational AI - OperAI https://www.operai.ca/books--reviews.html
+# Recent Books published by Operational AI - OperAI https://www.operai.ca/books.html#/
 
 ​OperAI develops IoT & AI-based solutions to streamline operational processes at the edge of the Cloud! 
 
